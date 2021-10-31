@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea841ff9-76c2-4fc9-99cf-0ab38bb8df37": {
+      "ProjectGuid": "ea841ff9-76c2-4fc9-99cf-0ab38bb8df37",
+      "DisplayName": "AandelenBeheer",
+      "ColorIndex": 0
+    },
+    "9957afa1-4c7f-4cd4-84bc-bf92e836d644": {
+      "ProjectGuid": "9957afa1-4c7f-4cd4-84bc-bf92e836d644",
+      "DisplayName": "AandelenBeheerData",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

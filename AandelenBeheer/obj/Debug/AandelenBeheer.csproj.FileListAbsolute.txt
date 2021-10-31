@@ -1,0 +1,11 @@
+C:\Users\bahaa\source\repos\AandelenBeheer\bin\Debug\AandelenBeheer.exe.config
+C:\Users\bahaa\source\repos\AandelenBeheer\bin\Debug\AandelenBeheer.exe
+C:\Users\bahaa\source\repos\AandelenBeheer\bin\Debug\AandelenBeheer.pdb
+C:\Users\bahaa\source\repos\AandelenBeheer\obj\Debug\AandelenBeheer.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\repos\AandelenBeheer\obj\Debug\AandelenBeheer.csproj.SuggestedBindingRedirects.cache
+C:\Users\bahaa\source\repos\AandelenBeheer\obj\Debug\AandelenBeheer.FormAandelen.resources
+C:\Users\bahaa\source\repos\AandelenBeheer\obj\Debug\AandelenBeheer.Properties.Resources.resources
+C:\Users\bahaa\source\repos\AandelenBeheer\obj\Debug\AandelenBeheer.csproj.GenerateResource.cache
+C:\Users\bahaa\source\repos\AandelenBeheer\obj\Debug\AandelenBeheer.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\repos\AandelenBeheer\obj\Debug\AandelenBeheer.exe
+C:\Users\bahaa\source\repos\AandelenBeheer\obj\Debug\AandelenBeheer.pdb
